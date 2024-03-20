@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Zombie.label>Зомби</Zombie.label>
+  <Zombie.description>Один зомби</Zombie.description>
+  <Zombie.tools.0.label>Укус</Zombie.tools.0.label>
+  <Zombie.tools.1.label>Левый кулак</Zombie.tools.1.label>
+  <Zombie.tools.2.label>Правый кулак</Zombie.tools.2.label>
+
+  <Zombie_Corpse.label>Труп зомби</Zombie_Corpse.label>
+  <Zombie_Corpse.description>Труп зомби</Zombie_Corpse.description>
+
+  <ElectricalField.label>Электрическое поле</ElectricalField.label>
+  <ElectricalField.verbs.li.label>Поражение</ElectricalField.verbs.li.label>
+  <ElectricalField.tools.li.label>Поражение</ElectricalField.tools.li.label>
+
+  <ZombieSpitter.label>Плеватель зомби</ZombieSpitter.label>
+  <ZombieSpitter.description>Существо, выплевывающее зомби из воздуха, нападающее на вашу базу.</ZombieSpitter.description>
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZombieBite.label>Укус зомби</ZombieBite.label>
+  <ZombieBite.deathMessage>{0} погиб от укуса зомби.</ZombieBite.deathMessage>
+
+  <SuicideBomb.label>Смертельный взрыв</SuicideBomb.label>
+  <SuicideBomb.deathMessage>{0} погиб от взрыва смертника.</SuicideBomb.deathMessage>
+
+  <ToxicSplatter.label>Токсичные брызги</ToxicSplatter.label>
+  <ToxicSplatter.deathMessage>{0} был убит.</ToxicSplatter.deathMessage>
+
+  <ElectricalShock.label>Электрический удар</ElectricalShock.label>
+  <ElectricalShock.deathMessage>{0} был убит электрическим разрядом.</ElectricalShock.deathMessage>
+
+  <SeismicWave.label>Сейсмическая волна</SeismicWave.label>
+
+</LanguageData>

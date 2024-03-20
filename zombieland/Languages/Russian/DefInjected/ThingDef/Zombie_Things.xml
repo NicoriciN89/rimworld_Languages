@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Apparel_BombVest.label>Жилет с бомбой</Apparel_BombVest.label>
+	<Apparel_BombVest.description>Жилет с встроенным взрывчатым веществом</Apparel_BombVest.description>
+
+	<TarSlime.label>Дегтярный слизень</TarSlime.label>
+	<TarSlime.description>Липкий слизень на земле</TarSlime.description>
+
+	<TarSmoke.label>Дым</TarSmoke.label>
+	<TarSmoke.description>Плотный черный дым</TarSmoke.description>
+
+	<StickyGoo.label>Ядовитый и липкий слизень</StickyGoo.label>
+	<StickyGoo.description>Ядовитый липкий слизень, который вероятно вызовет болезнь при касании</StickyGoo.description>
+
+	<Chainsaw.label>Бензопила</Chainsaw.label>
+	<Chainsaw.description>Бензопила. Кажется, она работает только против глупых врагов, таких как зомби, и ломается на других объектах. Очень высокий риск для собственного повреждения и оставляется, если она одновременно атакуется слишком многими углами. Вы были предупреждены.</Chainsaw.description>
+
+	<ZombieExtract.label>Экстракт зомби</ZombieExtract.label>
+	<ZombieExtract.description>Небольшое количество вещества от мертвого зомби. Смешивайте до 100 экстрактов, чтобы создать наркотик под названием Сыворотка от зомби, который используется для хирургического вмешательства в зараженные части тела.</ZombieExtract.description>
+
+	<UnfinishedZombieSerum.label>Незаконченная зомби-сыворотка</UnfinishedZombieSerum.label>
+
+	<Zombie10Serum.label>Сыворотка от зомби 10%</Zombie10Serum.label>
+	<Zombie10Serum.description>Сыворотка от зомби, полученная из трупа зомби, используемая в миссии для лечения инфекции зомби. (10% вероятность успеха)</Zombie10Serum.description>
+
+	<Zombie20Serum.label>Сыворотка от зомби 20%</Zombie20Serum.label>
+	<Zombie20Serum.description>Сыворотка от зомби, полученная из трупа зомби, используемая в миссии для лечения инфекции зомби. (20% вероятность успеха)</Zombie20Serum.description>
+
+	<Zombie30Serum.label>Сыворотка от зомби 30%</Zombie30Serum.label>
+	<Zombie30Serum.description>Сыворотка от зомби, полученная из трупа зомби, используемая в миссии для лечения инфекции зомби. (30% вероятность успеха)</Zombie30Serum.description>
+
+	<Zombie40Serum.label>Сыворотка от зомби 40%</Zombie40Serum.label>
+	<Zombie40Serum.description>Сыворотка от зомби, полученная из трупа зомби, используемая в миссии для лечения инфекции зомби. (40% вероятность успеха)</Zombie40Serum.description>
+
+	<Zombie50Serum.label>Сыворотка от зомби 50%</Zombie50Serum.label>
+	<Zombie50Serum.description>Сыворотка от зомби, полученная из трупа зомби, используемая в миссии для лечения инфекции зомби. (50% вероятность успеха)</Zombie50Serum.description>
+
+	<Zombie60Serum.label>Сыворотка от зомби 60%</Zombie60Serum.label>
+	<Zombie60Serum.description>Сыворотка от зомби, полученная из трупа зомби, используемая в миссии для лечения инфекции зомби. (60% вероятность успеха)</Zombie60Serum.description>
+  
+  <Zombie70Serum.label>Сыворотка от зомби 70%</Zombie60Serum.label>
+	<Zombie70Serum.description>Сыворотка от зомби, полученная из трупа зомби, используемая в миссии для лечения инфекции зомби. (60% вероятность успеха)</Zombie60Serum.description>
+
+	<Zombie80Serum.label>Сыворотка от зомби 80%</Zombie80Serum.label>
+	<Zombie80Serum.description>Сыворотка от мертвого зомби, способная лечить заражение зомби во время операции. (80% вероятность успеха)</Zombie80Serum.description>
+
+	<Zombie90Serum.label>Сыворотка от зомби 90%</Zombie90Serum.label>
+	<Zombie90Serum.description>Сыворотка от мертвого зомби, способная лечить заражение зомби во время операции. (90% вероятность успеха)</Zombie90Serum.description>
+
+	<Zombie100Serum.label>Сыворотка от зомби 100%</Zombie100Serum.label>
+	<Zombie100Serum.description>Сыворотка от мертвого зомби, способная лечить заражение зомби во время операции. (100% вероятность успеха)</Zombie100Serum.description>
+
+	<ZombieShocker.label>Шокер зомби</ZombieShocker.label>
+	<ZombieShocker.description>Устройство для управления зомби, которое устанавливается на стену комнаты. Может быть активировано снаружи, заставляя каждого зомби в комнате на короткое время потерять сознание.</ZombieShocker.description>
+
+	<Thumper.label>Трамплинг-машинка</Thumper.label>
+	<Thumper.description>Приспособление для привлечения зомби. Работает на топливе, при каждом ударе наносит ущерб окружающей среде.</Thumper.description>
+
+	<ZombieSpitter.label>Плеватель зомби</ZombieSpitter.label>
+	<ZombieSpitter.description>Существо, выплевывающее зомби для атаки вашей базы с воздуха.</ZombieSpitter.description>
+	<ZombieBall.label>Мяч зомби</ZombieBall.label>
+
+</LanguageData>

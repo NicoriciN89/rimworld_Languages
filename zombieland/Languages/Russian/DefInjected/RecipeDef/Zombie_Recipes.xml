@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<CureZombieInfection.label>Лечение заражения зомби</CureZombieInfection.label>
+	<CureZombieInfection.description>Устраняет ранние признаки заражения зомби в организме. Требуется зомби-сыворотка (более высокий процент повышает шансы на успех).</CureZombieInfection.description>
+	<CureZombieInfection.jobString>Лечение заражения зомби</CureZombieInfection.jobString>
+
+	<MakeZombieSerum.label>Изготовление сыворотки из зомби-препарата</MakeZombieSerum.label>
+	<MakeZombieSerum.description>Изготовление сыворотки из зомби-препарата для лечения заражения зомби в процессе действия.</MakeZombieSerum.description>
+
+</LanguageData>

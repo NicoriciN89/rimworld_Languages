@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ExtractZombieSerum.label>Извлечение сыворотки из тела зомби</ExtractZombieSerum.label>
+	<ExtractZombieSerum.verb>Извлечь</ExtractZombieSerum.verb>
+	<ExtractZombieSerum.gerund>Извлечение</ExtractZombieSerum.gerund>
+
+	<DoubleTap.label>Двойной выстрел для предотвращения превращения тела в зомби</DoubleTap.label>
+	<DoubleTap.verb>Двойной выстрел</DoubleTap.verb>
+	<DoubleTap.gerund>Двойное выстреление</DoubleTap.gerund>
+
+</LanguageData>

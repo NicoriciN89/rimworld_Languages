@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stumble.reportString>Шатаясь двигается.</Stumble.reportString>
+  <Sabotage.reportString>Саботаж.</Sabotage.reportString>
+  <ExtractZombieSerum.reportString>Извлекает сыворотку от зомби из Цели А.</ExtractZombieSerum.reportString>
+  <DoubleTap.reportString>Двойное нажатие по Цели А.</DoubleTap.reportString>
+  <RopeZombie.reportString>Закидывает веревку на Цель А.</RopeZombie.reportString>
+  <ZapZombies.reportString>Активирует зомби-очиститель.</ZapZombies.reportString>
+
+</LanguageData>
